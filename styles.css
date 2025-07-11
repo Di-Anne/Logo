@@ -1,0 +1,26 @@
+body {
+    margin: 0px;
+    background: #242423;
+}
+
+.box {
+    height: 30px;
+    width: 30px;
+}
+
+.box-red {
+    background: #ff4d4d;
+}
+
+.box-blue {
+    background: #738cff;
+}
+
+.box-green {
+    background: #46ff36;
+}
+
+.box-orange {
+    background: #ffaf24;
+}
+
