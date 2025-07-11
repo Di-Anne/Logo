@@ -10,10 +10,6 @@ body {
     animation: move 2s ease-in 1s infinite alternate both;
 }
 
-@keyframes move {
-    100% {transform: translate(50vw, 50vh) scaleX(10) skew(60deg);}
-}
-
 .box-red {
     background: #ff4d4d;
 }
@@ -28,5 +24,9 @@ body {
 
 .box-orange {
     background: #ffaf24;
+}
+
+@keyframes move {
+    100% {transform: translate(50vw, 50vh) scaleX(10) skew(60deg);}
 }
 
